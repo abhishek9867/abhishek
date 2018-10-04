@@ -1,3 +1,4 @@
+#conturbution to github
 a=[]
 b=[]
 l=int(input("enter list"))
